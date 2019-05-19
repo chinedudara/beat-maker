@@ -3,7 +3,7 @@
 
 > Make music by tapping pads and make colorful animation while tapping :smile:. 
 
-I built this using vanilla javascript by following a tutorial by [Dev Ed]('https://youtu.be/2VJlzeEVL8A')  
+I built this using vanilla javascript by following a tutorial by [Dev Ed](https://youtu.be/2VJlzeEVL8A)  
 
 ---  
 **Future Considerations**
